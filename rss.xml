@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>你的名字</name>
+    <name>奔跑的蜗牛</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>https://hapzxb.github.io/</id>
   <link href="https://hapzxb.github.io/" rel="alternate"/>
   <link href="https://hapzxb.github.io/rss.xml" rel="self"/>
-  <rights>All rights reserved 2026, 你的名字</rights>
+  <rights>All rights reserved 2026, 奔跑的蜗牛</rights>
   <subtitle>架构师成长之路 | 系统学习架构设计</subtitle>
   <title>从零开始学架构</title>
   <updated>2026-02-12T07:48:47.102Z</updated>
   <entry>
     <author>
-      <name>你的名字</name>
+      <name>奔跑的蜗牛</name>
     </author>
     <category term="架构基础" scheme="https://hapzxb.github.io/categories/%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/"/>
     <category term="架构思维" scheme="https://hapzxb.github.io/tags/%E6%9E%B6%E6%9E%84%E6%80%9D%E7%BB%B4/"/>
